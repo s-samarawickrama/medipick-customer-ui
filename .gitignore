@@ -1,0 +1,11 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jsc
+*.js.map
+.env
+.DS_Store
+.claude
+.cluad
+_archive/
